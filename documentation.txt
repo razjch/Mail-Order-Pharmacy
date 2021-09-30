@@ -1,0 +1,15 @@
+drug: https://drugservice.azurewebsites.net
+auth: https://authservicedevops.azurewebsites.net
+refill: https://refillservice.azurewebsites.net
+sub :  https://subscriptionservice1.azurewebsites.net
+member Portal : https://memberportaldevops1.azurewebsites.net
+
+Login Credentials:
+Email : abc@gmail.com
+pass : 123
+
+Email : lmn@gmail.com
+pass : 123
+
+Email : xyz@gmail.com
+pass : 123
